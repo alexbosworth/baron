@@ -33,7 +33,7 @@
     "ejs": "^2.5.7",
     "express": "^4.4.5",
     "heckler": "git+https://github.com/slickage/heckler",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.12",
     "nano": "^5.10.0",
     "qr-image": "^1.2.0",
     "request": "^2.83.0",
